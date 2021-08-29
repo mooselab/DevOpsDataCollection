@@ -45,4 +45,10 @@ A collection of DevOps datasets that aim to facilitate research and development 
 
 ## Metrics & Alerts
 
+## Tsinghua Netman Lab AIOps datasets
+- **Data**: https://github.com/NetManAIOps
+- **Description**: A list of datasets used in publications (e.g., server machine outlier data, KPI anomaly data, hardware failure data).
+- **Data size**: varying sizes.
+- **Paper**: The associated papers are listed along with the datasets.
+
 ## Other data
