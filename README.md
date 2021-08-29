@@ -13,7 +13,8 @@ A collection of DevOps datasets that aim to facilitate research and development 
 
 ## Application and system logs
 
-### Loghub (a large collection of system and application logs, provided by the LogPAI team)
+### Loghub 
+- **Description**: A large collection of system and application logs, provided by the LogPAI team. Some datasets (e.g., HDFS, BGL logs) include normal/abnormal labels.
 - **Data**: GitHub (descriptions and sample data): https://github.com/logpai/loghub; Zenodo (complete data): https://zenodo.org/record/3227177#.YPBSly297T8
 - **Paper**: He, Shilin, Jieming Zhu, Pinjia He, and Michael R. Lyu. "Loghub: A large collection of system log datasets towards automated log analytics." arXiv preprint arXiv:2008.06448 (2020).
 
