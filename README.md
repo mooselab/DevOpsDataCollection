@@ -51,5 +51,5 @@ A collection of DevOps datasets that aim to facilitate research and development 
 - **Data size**: varying sizes.
 - **Paper**: The associated papers are listed along with the datasets.
 
-## Other data
+## Contribution
 - **Please share other dataset information through pull requests to this repository.**
