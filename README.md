@@ -23,10 +23,16 @@ A collection of DevOps datasets that aim to facilitate research and development 
 - **Data size**: 216 MB compressed.
 - **Paper**: Cotroneo, D., De Simone, L., Liguori, P., Natella, R., & Bidokhti, N. (2019, August). How bad can a bug get? an empirical analysis of software failures in the openstack cloud computing platform. ESEC/FSE '19.
 
-### A list of security related log datasets
+### SecRepo's Security related log datasets
 - **Data**: http://www.secrepo.com
 - **Descrption**: A list of security log datasets such as malware and system/access logs.
 - **Data size** varying sizes.
+
+### EDGAR's Apache access log data
+- **Data**: https://www.sec.gov/dera/data/edgar-log-file-data-set.html
+- **Descrption**: The Division of Economic and Risk Analysis (DERA) has assembled information on internet search traffic for EDGAR filings through SEC.gov generally covering the period February 14, 2003 through June 30, 2017. The EDGAR Log File Data Set contains information in CSV format extracted from Apache log files that record and store user access statistics for the SEC.gov website.
+- **Data duration**: 2003 to 2017.
+- **Data size**: multiple files.
 
 ## Computer/cluster/cloud failure data
 ### The Computer Failure Data Repository (CFDR)
