@@ -19,6 +19,10 @@ A collection of DevOps datasets that aim to facilitate research and development 
 - Zenodo (complete data): https://zenodo.org/record/3227177#.YPBSly297T8
 - Paper: He, Shilin, Jieming Zhu, Pinjia He, and Michael R. Lyu. "Loghub: A large collection of system log datasets towards automated log analytics." arXiv preprint arXiv:2008.06448 (2020).
 
+### OpenStack failure dataset (error logs produced by the OpenStack Cloud Computing platform)
+- Data: https://figshare.com/articles/dataset/Failure_dataset/7732268/2
+- Paper: Cotroneo, D., De Simone, L., Liguori, P., Natella, R., & Bidokhti, N. (2019, August). How bad can a bug get? an empirical analysis of software failures in the openstack cloud computing platform. ESEC/FSE '19.
+
 ## Disk failure data
 
 ## Metrics & Alerts
