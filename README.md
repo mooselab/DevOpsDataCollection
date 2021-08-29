@@ -14,15 +14,19 @@ A collection of DevOps datasets that aim to facilitate research and development 
 ## Application and system logs
 
 ### Loghub (a large collection of system and application logs, provided by the LogPAI team)
-- GitHub (descriptions and sample data): https://github.com/logpai/loghub
-- Zenodo (complete data): https://zenodo.org/record/3227177#.YPBSly297T8
-- Paper: He, Shilin, Jieming Zhu, Pinjia He, and Michael R. Lyu. "Loghub: A large collection of system log datasets towards automated log analytics." arXiv preprint arXiv:2008.06448 (2020).
+- **Data**: GitHub (descriptions and sample data): https://github.com/logpai/loghub; Zenodo (complete data): https://zenodo.org/record/3227177#.YPBSly297T8
+- **Paper**: He, Shilin, Jieming Zhu, Pinjia He, and Michael R. Lyu. "Loghub: A large collection of system log datasets towards automated log analytics." arXiv preprint arXiv:2008.06448 (2020).
 
 ### OpenStack failure dataset (error logs produced by the OpenStack Cloud Computing platform)
 - **Data**: https://figshare.com/articles/dataset/Failure_dataset/7732268/2
 - **Description**: This failure dataset contains the injected faults, the workload, the effects of failure (both the user-side impact and our own in-depth correctness checks), and the error logs produced by the OpenStack cloud management system.
 - **Data size**: 216 MB compressed.
 - **Paper**: Cotroneo, D., De Simone, L., Liguori, P., Natella, R., & Bidokhti, N. (2019, August). How bad can a bug get? an empirical analysis of software failures in the openstack cloud computing platform. ESEC/FSE '19.
+
+### A list of security related log datasets
+- **Data**: http://www.secrepo.com
+- **Descrption**: A list of security log datasets such as malware and system/access logs.
+- **Data size** varying sizes.
 
 ## Computer/cluster/cloud failure data
 ### The Computer Failure Data Repository (CFDR)
