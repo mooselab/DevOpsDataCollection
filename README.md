@@ -24,6 +24,13 @@ A collection of DevOps datasets that aim to facilitate research and development 
 - **Data size**: 216 MB compressed.
 - **Paper**: Cotroneo, D., De Simone, L., Liguori, P., Natella, R., & Bidokhti, N. (2019, August). How bad can a bug get? an empirical analysis of software failures in the openstack cloud computing platform. ESEC/FSE '19.
 
+## Computer/cluster/cloud failure data
+### The Computer Failure Data Repository (CFDR)
+- **Data**: https://www.usenix.org/cfdr
+- **Description**: A list of computer/cluster failure datasets, including hadware failure/replacement data, node outage data, event/error logs. The computer failure data repository (CFDR) aims at accelerating research on system reliability by filling the nearly empty collection of public data with detailed failure data from a variety of large production systems.
+- **Data size**: varying (wide-range) sizes.
+- **Paper**: Some papers using the data can be found at: https://www.usenix.org/cfdr-data
+
 ## Disk failure data
 
 ## Metrics & Alerts
