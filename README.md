@@ -17,6 +17,11 @@ A collection of DevOps datasets that aim to facilitate research and development 
 - **Papers**: listed in the data repo.
 
 ### Microsoft Azure trace data
+- **Data**: https://github.com/Azure/AzurePublicDataset
+- **Description**: This repository contains four public datasets of Microsoft Azure traces (VM traces, function traces) for the benefit of the research and academic community.
+- **Data duration**: Varying durations (check the description of the respect dataset page).
+- **Data size**: Varying sizes (check the description of the respect dataset page).
+- **Papers**: "Resource Central: Understanding and Predicting Workloads for Improved Resource Management in Large Cloud Platforms", SOSP’17.
 
 ## Application and system logs
 
