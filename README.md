@@ -9,6 +9,13 @@ A collection of DevOps datasets that aim to facilitate research and development 
 - **Data size**: 41 GB compressed (2011 version); 2.4TiB compressed (2019 version).
 - **Papers built on the dataset**: https://github.com/google/cluster-data/blob/master/bibliography.bib
 
+### Alibaba cluster trace data
+- **Data**: https://github.com/alibaba/clusterdata
+- **Description**: Trace datasets collected from thousands of machines in Alibaba clusters.
+- **Data duration**: The latest dataset covers 2 months of data from 6500 machines.
+- **Data size**: Varying sizes.
+- **Papers**: listed in the data repo.
+
 ### Microsoft Azure trace data
 
 ## Application and system logs
