@@ -39,7 +39,12 @@ A collection of DevOps datasets that aim to facilitate research and development 
 ### SecRepo's Security related log datasets
 - **Data**: http://www.secrepo.com
 - **Descrption**: A list of security log datasets such as malware and system/access logs.
-- **Data size** varying sizes.
+- **Data size**: varying sizes.
+
+### VizSec security log datasets
+- **Data**: https://vizsec.org/data/
+- **Description**: including a number of security-related log datasets.
+- **Data size**: varying sizes.
 
 ### EDGAR's Apache access log data
 - **Data**: https://www.sec.gov/dera/data/edgar-log-file-data-set.html
@@ -55,8 +60,13 @@ A collection of DevOps datasets that aim to facilitate research and development 
 - **Paper**: Some papers using the data can be found at: https://www.usenix.org/cfdr-data
 
 ## Disk failure data
+### Backblaze disk failure dataset
+- **Data**: https://www.backblaze.com/b2/hard-drive-test-data.html
+- **Description**: Disk status data collected from tens of thousands of hard disks monitored over years with daily granularity.
+- **Data duration**: from 2013 to 2021 (continuing)
+- **Data size**: several GBs of data per year.
+- **Paper**: Several papers, including: "Proactive error prediction to improve storage system reliability." USENIX ATC '17.
 
-## Metrics & Alerts
 
 ## Tsinghua Netman Lab AIOps datasets
 - **Data**: https://github.com/NetManAIOps
