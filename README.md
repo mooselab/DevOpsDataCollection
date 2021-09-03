@@ -74,5 +74,9 @@ A collection of DevOps datasets that aim to facilitate research and development 
 - **Data size**: varying sizes.
 - **Paper**: The associated papers are listed along with the datasets.
 
+## Stack Overflow/Exchange data related to DevOps
+--**Data**: SOTorrent: https://empirical-software.engineering/sotorrent/; Stack Exchange Data Dump: https://archive.org/details/stackexchange.
+-- **Description**: Questions posted on the SO/SE technique forums may include operations data such as logs, stack traces, etc.
+
 ## Contribution
 - **Please share other dataset information through pull requests to this repository.**
