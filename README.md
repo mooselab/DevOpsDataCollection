@@ -1,7 +1,7 @@
 # DevOps Data Collection
 A collection of DevOps datasets that aim to facilitate research and development to support DevOps intelligence.
 
-## Large-scale cloud trace data
+## 1. Large-scale cloud trace data
 ### Google cluster workload traces
 - **Data**: https://github.com/google/cluster-data
 - **Description**: Traces of the workloads running on Google Borg compute clusters. The trace describes every job submission, scheduling decision, and resource usage data for the jobs that ran in those clusters. There are two versions of the data:  one trace for the month of May 2011 and another for May 2019.
@@ -23,7 +23,7 @@ A collection of DevOps datasets that aim to facilitate research and development 
 - **Data size**: Varying sizes (check the description of the respect dataset page).
 - **Papers**: "Resource Central: Understanding and Predicting Workloads for Improved Resource Management in Large Cloud Platforms", SOSP’17.
 
-## Application and system logs
+## 2. Application and system logs
 
 ### Loghub 
 - **Description**: A large collection of system and application logs, provided by the LogPAI team. Some datasets (e.g., HDFS, BGL logs) include normal/abnormal labels.
@@ -52,14 +52,14 @@ A collection of DevOps datasets that aim to facilitate research and development 
 - **Data duration**: 2003 to 2017.
 - **Data size**: multiple files.
 
-## Computer/cluster/cloud failure data
+## 3. Computer/cluster/cloud failure data
 ### The Computer Failure Data Repository (CFDR)
 - **Data**: https://www.usenix.org/cfdr
 - **Description**: A list of computer/cluster failure datasets, including hadware failure/replacement data, node outage data, event/error logs. The computer failure data repository (CFDR) aims at accelerating research on system reliability by filling the nearly empty collection of public data with detailed failure data from a variety of large production systems.
 - **Data size**: varying (wide-range) sizes.
 - **Paper**: Some papers using the data can be found at: https://www.usenix.org/cfdr-data
 
-## Disk failure data
+## 4. Disk failure data
 ### Backblaze disk failure dataset
 - **Data**: https://www.backblaze.com/b2/hard-drive-test-data.html
 - **Description**: Disk status data collected from tens of thousands of hard disks monitored over years with daily granularity.
@@ -68,15 +68,24 @@ A collection of DevOps datasets that aim to facilitate research and development 
 - **Paper**: Several papers, including: "Proactive error prediction to improve storage system reliability." USENIX ATC '17.
 
 
-## Tsinghua Netman Lab AIOps datasets
+## 5. Tsinghua Netman Lab AIOps datasets
 - **Data**: https://github.com/NetManAIOps
 - **Description**: A list of datasets used in publications (e.g., server machine outlier data, KPI anomaly data, hardware failure data).
 - **Data size**: varying sizes.
 - **Paper**: The associated papers are listed along with the datasets.
 
-## Stack Overflow/Exchange data related to DevOps
+## 6. Stack Overflow/Exchange data related to DevOps
 - **Data**: SOTorrent: https://empirical-software.engineering/sotorrent/; Stack Exchange Data Dump: https://archive.org/details/stackexchange.
 - **Description**: Questions posted on the SO/SE technique forums may include operations data such as logs, stack traces, etc.
+
+## 7. MLOps data
+### Microsoft Azure MLOps
+- **Data**: https://github.com/microsoft/MLOps
+- **Description**: Including code examples of using Azure MLOps pipeline.
+
+### AutoML benchmark
+- **Data**:https://github.com/openml/automlbenchmark; 
+- **Description**: Benchmarking datasets and code for AutoML.
 
 ## Contribution
 - **Please share other dataset information through pull requests to this repository.**
