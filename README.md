@@ -13,6 +13,7 @@ A collection of DevOps datasets that aim to facilitate research and development 
 - **Data**: https://github.com/alibaba/clusterdata
 - **Description**: Trace datasets collected from thousands of machines in Alibaba clusters.
 - **Data duration**: The latest dataset covers 2 months of data from 6500 machines.
+- **New traces**: GPU trace data 2020 covers 2 months of data; Microservice trace data 2021 covers 12 hours of data.
 - **Data size**: Varying sizes.
 - **Papers**: listed in the data repo.
 
