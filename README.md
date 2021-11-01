@@ -88,5 +88,9 @@ A collection of DevOps datasets that aim to facilitate research and development 
 - **Data**:https://github.com/openml/automlbenchmark; 
 - **Description**: Benchmarking datasets and code for AutoML.
 
+### Yahoo! Computing System data
+- **Data**: https://webscope.sandbox.yahoo.com/catalog.php?datatype=s
+- **Description**: Several compputing system monitoring datasets, including a performance metric dataset (33K) an anomaly detection dataset (16M).
+
 ## Contribution
 - **Please share other dataset information through pull requests to this repository.**
