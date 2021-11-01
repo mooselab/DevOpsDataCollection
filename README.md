@@ -68,29 +68,29 @@ A collection of DevOps datasets that aim to facilitate research and development 
 - **Data size**: several GBs of data per year.
 - **Paper**: Several papers, including: "Proactive error prediction to improve storage system reliability." USENIX ATC '17.
 
+## 5. Performance metrics data
+### Yahoo! Computing System data
+- **Data**: https://webscope.sandbox.yahoo.com/catalog.php?datatype=s
+- **Description**: Several compputing system monitoring datasets, including a performance metric dataset (33K) an anomaly detection dataset (16M).
 
-## 5. Tsinghua Netman Lab AIOps datasets
+## 6. Tsinghua Netman Lab AIOps datasets
 - **Data**: https://github.com/NetManAIOps
 - **Description**: A list of datasets used in publications (e.g., server machine outlier data, KPI anomaly data, hardware failure data).
 - **Data size**: varying sizes.
 - **Paper**: The associated papers are listed along with the datasets.
 
-## 6. Stack Overflow/Exchange data related to DevOps
+## 7. Stack Overflow/Exchange data related to DevOps
 - **Data**: SOTorrent: https://empirical-software.engineering/sotorrent/; Stack Exchange Data Dump: https://archive.org/details/stackexchange.
 - **Description**: Questions posted on the SO/SE technique forums may include operations data such as logs, stack traces, etc.
 
-## 7. MLOps data
+## 8. MLOps data
 ### Microsoft Azure MLOps
 - **Data**: https://github.com/microsoft/MLOps
 - **Description**: Including code examples of using Azure MLOps pipeline.
 
-### AutoML benchmark
+### 9. AutoML benchmark
 - **Data**:https://github.com/openml/automlbenchmark; 
 - **Description**: Benchmarking datasets and code for AutoML.
-
-### Yahoo! Computing System data
-- **Data**: https://webscope.sandbox.yahoo.com/catalog.php?datatype=s
-- **Description**: Several compputing system monitoring datasets, including a performance metric dataset (33K) an anomaly detection dataset (16M).
 
 ## Contribution
 - **Please share other dataset information through pull requests to this repository.**
