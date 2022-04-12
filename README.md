@@ -79,11 +79,7 @@ A collection of DevOps datasets that aim to facilitate research and development 
 - **Data size**: varying sizes.
 - **Paper**: The associated papers are listed along with the datasets.
 
-## 7. Stack Overflow/Exchange data related to DevOps
-- **Data**: SOTorrent: https://empirical-software.engineering/sotorrent/; Stack Exchange Data Dump: https://archive.org/details/stackexchange.
-- **Description**: Questions posted on the SO/SE technique forums may include operations data such as logs, stack traces, etc.
-
-## 8. MLOps data
+## 7. MLOps data
 ### Microsoft Azure MLOps
 - **Data**: https://github.com/microsoft/MLOps
 - **Description**: Including code examples of using Azure MLOps pipeline.
@@ -92,10 +88,14 @@ A collection of DevOps datasets that aim to facilitate research and development 
 - **Data**:https://github.com/openml/automlbenchmark; 
 - **Description**: Benchmarking datasets and code for AutoML.
 
-## 9. Other dataset collections
+## 8. Other dataset collections
 ### Google Research datasets
 - **Data**: https://research.google/tools/datasets/
 - **Description**: A collection of different types of data, such as image, video, audio, text annotation, robotics, cluster traces, DNN hardware acceleration data, etc.
+
+### Stack Overflow/Exchange data related to DevOps
+- **Data**: SOTorrent: https://empirical-software.engineering/sotorrent/; Stack Exchange Data Dump: https://archive.org/details/stackexchange.
+- **Description**: Questions posted on the SO/SE technique forums may include operations data such as logs, stack traces, etc.
 
 # Contribution
 - **Please share other dataset information through pull requests to this repository.**
