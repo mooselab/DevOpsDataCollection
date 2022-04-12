@@ -88,9 +88,14 @@ A collection of DevOps datasets that aim to facilitate research and development 
 - **Data**: https://github.com/microsoft/MLOps
 - **Description**: Including code examples of using Azure MLOps pipeline.
 
-### 9. AutoML benchmark
+### AutoML benchmark
 - **Data**:https://github.com/openml/automlbenchmark; 
 - **Description**: Benchmarking datasets and code for AutoML.
+
+## 9. Other dataset collections
+### Google Research datasets
+- **Data**: https://research.google/tools/datasets/
+- **Description**: A collection of different types of data, such as image, video, audio, text annotation, robotics, cluster traces, DNN hardware acceleration data, etc.
 
 # Contribution
 - **Please share other dataset information through pull requests to this repository.**
