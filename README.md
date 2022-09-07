@@ -53,6 +53,13 @@ A collection of DevOps datasets that aim to facilitate research and development 
 - **Data duration**: 2003 to 2017.
 - **Data size**: multiple files.
 
+### Log & trace data for anomaly detection of microservice (TrainTicket)
+- **Data**: https://fudanselab.github.io/DeepTraLog/; https://github.com/FudanSELab/DeepTraLog
+- **Descripiton**: Log and trace data from ICSE '22 paper "DeepTraLog: Trace-Log Combined Microservice Anomaly Detection through Graph-based Deep Learning". It includes log and trace data for nomal and abnormal executions.
+- **Data duration**: 
+- **Data size**: 
+- **Paper**: Chenxi Zhang, Xin Peng, Chaofeng Sha, Ke Zhang, Zhenqing Fu, Xiya Wu, Qingwei Lin, and Dongmei Zhang. "DeepTraLog: Trace-Log Combined Microservice Anomaly Detection through Graph-based Deep Learning." (2022).
+
 ## 3. Computer/cluster/cloud failure data
 ### The Computer Failure Data Repository (CFDR)
 - **Data**: https://www.usenix.org/cfdr
