@@ -95,7 +95,12 @@ A collection of DevOps datasets that aim to facilitate research and development 
 - **Data**:https://github.com/openml/automlbenchmark; 
 - **Description**: Benchmarking datasets and code for AutoML.
 
-## 8. Workload benchmarks (producing your own data)
+## 8. Workload traces
+### 11 real-world workload traces
+- **Data**: Check paper: Kistowski, Jóakim Von, Nikolas Herbst, Samuel Kounev, Henning Groenda, Christian Stier, and Sebastian Lehrig. "Modeling and extracting load intensity profiles." ACM Transactions on Autonomous and Adaptive Systems (TAAS) 11, no. 4 (2017): 1-28.
+- **Description**: The paper uses 11 different real-world traces that cover between 2 weeks and 7 months. The paper also describes approaches to extract, model and design workloads. 
+
+## 9. Workload benchmarks (producing your own data)
 ### HiBench (big data benchmark)
 - **Data**: https://github.com/Intel-bigdata/HiBench
 - **Description**: HiBench is a big data benchmark suite that helps evaluate different big data frameworks in terms of speed, throughput and system resource utilizations. It contains a set of Hadoop, Spark and streaming workloads, including Sort, WordCount, TeraSort, Repartition, Sleep, SQL, PageRank, Nutch indexing, Bayes, Kmeans, NWeight and enhanced DFSIO, etc. It also contains several streaming workloads for Spark Streaming, Flink, Storm and Gearpump. **The input data size is configurable: available size values are tiny, small, large, huge, gigantic and bigdata**. 
@@ -104,7 +109,11 @@ A collection of DevOps datasets that aim to facilitate research and development 
 - **Data**: https://dacapobench.sourceforge.net
 - **Description**: This benchmark suite is intended as a tool for Java benchmarking by the programming language, memory management and computer architecture communities. It consists of a set of open source, real world applications with non-trivial **memory** loads.
 
-## 9. Other dataset collections
+### Workload design methods
+- **Paper**: Check paper: Kistowski, Jóakim Von, Nikolas Herbst, Samuel Kounev, Henning Groenda, Christian Stier, and Sebastian Lehrig. "Modeling and extracting load intensity profiles." ACM Transactions on Autonomous and Adaptive Systems (TAAS) 11, no. 4 (2017): 1-28.
+- **Descrption**: This paper presents the Descartes Load Intensity Model (DLIM) approach that provides a modeling formalism for describing load intensity variations over time. A DLIM instance is a compact formal description of a load intensity trace. DLIM-based tools provide features for benchmarking, performance, and recorded load intensity trace analysis. The tools can be integrated into simulation contexts and enable benchmarking of elastic or adaptive behavior.
+
+## 10. Other dataset collections
 ### Google Research datasets
 - **Data**: https://research.google/tools/datasets/
 - **Description**: A collection of different types of data, such as image, video, audio, text annotation, robotics, cluster traces, DNN hardware acceleration data, etc.
