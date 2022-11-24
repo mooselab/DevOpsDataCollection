@@ -98,7 +98,7 @@ A collection of DevOps datasets that aim to facilitate research and development 
 ## 8. Workload benchmarks (producing your own data)
 ### HiBench (big data benchmark)
 - **Data**: https://github.com/Intel-bigdata/HiBench
-- ** Description **: HiBench is a big data benchmark suite that helps evaluate different big data frameworks in terms of speed, throughput and system resource utilizations. It contains a set of Hadoop, Spark and streaming workloads, including Sort, WordCount, TeraSort, Repartition, Sleep, SQL, PageRank, Nutch indexing, Bayes, Kmeans, NWeight and enhanced DFSIO, etc. It also contains several streaming workloads for Spark Streaming, Flink, Storm and Gearpump. **The input data size is configurable: available size values are tiny, small, large, huge, gigantic and bigdata**. 
+- **Description**: HiBench is a big data benchmark suite that helps evaluate different big data frameworks in terms of speed, throughput and system resource utilizations. It contains a set of Hadoop, Spark and streaming workloads, including Sort, WordCount, TeraSort, Repartition, Sleep, SQL, PageRank, Nutch indexing, Bayes, Kmeans, NWeight and enhanced DFSIO, etc. It also contains several streaming workloads for Spark Streaming, Flink, Storm and Gearpump. **The input data size is configurable: available size values are tiny, small, large, huge, gigantic and bigdata**. 
 
 ### The DaCapo benchmark
 - **Data**: https://dacapobench.sourceforge.net
