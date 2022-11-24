@@ -95,7 +95,16 @@ A collection of DevOps datasets that aim to facilitate research and development 
 - **Data**:https://github.com/openml/automlbenchmark; 
 - **Description**: Benchmarking datasets and code for AutoML.
 
-## 8. Other dataset collections
+## 8. Workload benchmarks (producing your own data)
+### HiBench (big data benchmark)
+-- **Data**: https://github.com/Intel-bigdata/HiBench
+-- ** Description **: HiBench is a big data benchmark suite that helps evaluate different big data frameworks in terms of speed, throughput and system resource utilizations. It contains a set of Hadoop, Spark and streaming workloads, including Sort, WordCount, TeraSort, Repartition, Sleep, SQL, PageRank, Nutch indexing, Bayes, Kmeans, NWeight and enhanced DFSIO, etc. It also contains several streaming workloads for Spark Streaming, Flink, Storm and Gearpump. **The input data size is configurable: available size values are tiny, small, large, huge, gigantic and bigdata**. 
+
+### The DaCapo benchmark
+-- **Data**: https://dacapobench.sourceforge.net
+-- **Description**: This benchmark suite is intended as a tool for Java benchmarking by the programming language, memory management and computer architecture communities. It consists of a set of open source, real world applications with non-trivial **memory** loads.
+
+## 9. Other dataset collections
 ### Google Research datasets
 - **Data**: https://research.google/tools/datasets/
 - **Description**: A collection of different types of data, such as image, video, audio, text annotation, robotics, cluster traces, DNN hardware acceleration data, etc.
