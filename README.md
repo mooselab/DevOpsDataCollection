@@ -129,7 +129,10 @@ A collection of DevOps datasets that aim to facilitate research and development 
 ### Stack Overflow/Exchange data related to DevOps
 - **Data**: SOTorrent: https://empirical-software.engineering/sotorrent/; Stack Exchange Data Dump: https://archive.org/details/stackexchange.
 - **Description**: Questions posted on the SO/SE technique forums may include operations data such as logs, stack traces, etc.
-- 
+
+### Awesome MSR datasets
+- **Data**: https://github.com/dspinellis/awesome-msr
+- **Description**: "A curated repository of data sets and tools that can be used for conducting evidence-based, data-driven research on software systems".
 
 ### Streaming data anomaly detecton benchmark
 - **Data**: https://github.com/numenta/NAB
