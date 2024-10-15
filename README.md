@@ -1,4 +1,4 @@
-# DevOps Data Collection
+# DevOps/AIOps Data Collection
 A collection of DevOps datasets that aim to facilitate research and development to support DevOps intelligence.
 
 ## 1. Large-scale cloud trace data
@@ -62,7 +62,7 @@ A collection of DevOps datasets that aim to facilitate research and development 
 
 ### Multi-modal data (logs + metrics + traces)
 - **Data**: https://github.com/IntelligentDDS/Nezha
-- **Descrption**: Multi-modal data (logs + metrics + traces) for root cause analysis.
+- **Descrption**: Multi-modal data (logs + metrics + traces) for anomaly detection and root cause analysis.
 - **Paper**: Yu, Guangba, Pengfei Chen, Yufeng Li, Hongyang Chen, Xiaoyun Li, and Zibin Zheng. "Nezha: Interpretable fine-grained root causes analysis for microservices on multi-modal observability data." In Proceedings of the 31st ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering, pp. 553-565. 2023.
 
 ## 3. Computer/cluster/cloud failure data
