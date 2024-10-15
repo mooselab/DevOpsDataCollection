@@ -60,6 +60,11 @@ A collection of DevOps datasets that aim to facilitate research and development 
 - **Data size**: 
 - **Paper**: Chenxi Zhang, Xin Peng, Chaofeng Sha, Ke Zhang, Zhenqing Fu, Xiya Wu, Qingwei Lin, and Dongmei Zhang. "DeepTraLog: Trace-Log Combined Microservice Anomaly Detection through Graph-based Deep Learning." (2022).
 
+### Multi-modal data (logs + metrics + traces)
+- **Data**: https://github.com/IntelligentDDS/Nezha
+- **Descrption**: Multi-modal data (logs + metrics + traces) for root cause analysis.
+- **Paper**: Yu, Guangba, Pengfei Chen, Yufeng Li, Hongyang Chen, Xiaoyun Li, and Zibin Zheng. "Nezha: Interpretable fine-grained root causes analysis for microservices on multi-modal observability data." In Proceedings of the 31st ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering, pp. 553-565. 2023.
+
 ## 3. Computer/cluster/cloud failure data
 ### The Computer Failure Data Repository (CFDR)
 - **Data**: https://www.usenix.org/cfdr
