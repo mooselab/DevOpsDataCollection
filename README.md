@@ -7,8 +7,12 @@ A collection of DevOps datasets that aim to facilitate research and development 
 - **Desription**: AIOpsLab is a holistic framework to enable the design, development, and evaluation of autonomous AIOps agents that, additionally, serve the purpose of building reproducible, standardized, interoperable and scalable benchmarks. AIOpsLab can deploy microservice cloud environments, inject faults, generate workloads, and export telemetry data, while orchestrating these components and providing interfaces for interacting with and evaluating agents.
 
 ### UCR time series archives (there are some DevOps/AIOps related datasets such as the Sever CPU Utilizaiton and Yahoo A/B datasets)
--**UCR time series classification datasets**. Data: https://www.cs.ucr.edu/%7Eeamonn/time_series_data_2018/; paper: https://arxiv.org/abs/1810.07758
--**UCR time series anomaly datasets**. Data: E . Keogh et al. al., “Time Series Anomaly Detection Datasets , SIGKDD 2021 ," Jun. 2021; https://www.cs.ucr.edu/~eamonn/ time_series_data_2018/UCR_TimeSeriesAnomalyDatasets2021. zip; paper: https://arxiv.org/abs/2009.13807
+- **UCR time series classification datasets**.
+  -- Data: https://www.cs.ucr.edu/%7Eeamonn/time_series_data_2018/;
+  -- paper: https://arxiv.org/abs/1810.07758
+- **UCR time series anomaly datasets**.
+  -- Data: E . Keogh et al. al., “Time Series Anomaly Detection Datasets , SIGKDD 2021 ," Jun. 2021; https://www.cs.ucr.edu/~eamonn/time_series_data_2018/UCR_TimeSeriesAnomalyDatasets2021.zip;
+  -- paper: https://arxiv.org/abs/2009.13807
 
 ### IBM Cloud telemetry dataset for anomaly detection
 - **Data**: https://zenodo.org/records/14062900
