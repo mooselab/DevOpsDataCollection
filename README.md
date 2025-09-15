@@ -10,6 +10,10 @@ A collection of DevOps datasets that aim to facilitate research and development 
 -**UCR time series classification datasets**. Data: https://www.cs.ucr.edu/%7Eeamonn/time_series_data_2018/; paper: https://arxiv.org/abs/1810.07758
 -**UCR time series anomaly datasets**. Data: E . Keogh et al. al., “Time Series Anomaly Detection Datasets , SIGKDD 2021 ," Jun. 2021; https://www.cs.ucr.edu/~eamonn/ time_series_data_2018/UCR_TimeSeriesAnomalyDatasets2021. zip; paper: https://arxiv.org/abs/2009.13807
 
+### IBM Cloud telemetry dataset for anomaly detection
+- **Data**: https://zenodo.org/records/14062900
+- **Description**: Mohammad Saiful Islam, Mohamed Sami Rakha, William Pourmajidi, Janakan Sivaloganathan, John Steinbacher, and Andriy Miranskyy. 2025. Anomaly Detection in Large-Scale Cloud Systems: An Industry Case and Dataset. In International Conference on Software Engineering: Software Engineering in Practice (ICSE-SEIP). https://arxiv.org/abs/2411.09047
+
 ## 1. Large-scale cloud trace data
 ### Google cluster workload traces
 - **Data**: https://github.com/google/cluster-data
