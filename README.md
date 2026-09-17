@@ -2,6 +2,11 @@
 A collection of DevOps datasets that aim to facilitate research and development to support DevOps intelligence.
 
 ## Latest additions: 
+
+### Three new log datasets
+- **FIBench**. Huang, Junjie, Zhihan Jiang, Jinyang Liu, Yintong Huo, Jiazhen Gu, Zhuangbin Chen, Cong Feng, Hui Dong, Zengyin Yang, and Michael R. Lyu. "Demystifying and extracting fault-indicating information from logs for failure diagnosis." In 2024 IEEE 35th International Symposium on Software Reliability Engineering (ISSRE), pp. 511-522. IEEE, 2024.
+- **CTS** and **HiBench**. Xu, Junjielong, Qiuai Fu, Zhouruixing Zhu, Yutong Cheng, Zhijing Li, Yuchi Ma, and Pinjia He. "Hue: A user-adaptive parser for hybrid logs." In Proceedings of the 31st ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering, pp. 413-424. 2023.
+
 ### Microsoft AIOpsLab (Leaderboard for AIOps agents)
 - **Benchmark**: https://microsoft.github.io/AIOpsLab/pages/leaderboard/
 - **Desription**: AIOpsLab is a holistic framework to enable the design, development, and evaluation of autonomous AIOps agents that, additionally, serve the purpose of building reproducible, standardized, interoperable and scalable benchmarks. AIOpsLab can deploy microservice cloud environments, inject faults, generate workloads, and export telemetry data, while orchestrating these components and providing interfaces for interacting with and evaluating agents.
